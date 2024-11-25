@@ -29,3 +29,9 @@ Bu proje, ASP.NET Core 7.0 ile Entity Framework Core kullanılarak geliştirilmi
 - **Öğretmen Yönetim Sayfaları:** Öğretmen bilgilerini düzenleme ve listeleme.
 - **Öğretmen Kurs İlişkilendirmesi:** Kurslar ve öğretmenler arasındaki ilişkilerin yönetimi.
 - **Öğretmen Seçiminin Zorunlu Olması:** İlişkilerinize kuralların uygulanması.
+
+
+
+
+https://github.com/user-attachments/assets/af98d893-a0af-46b5-aecc-e7e856db5a39
+
